@@ -4,7 +4,8 @@ Skills: Machine Learning, Data Exploration, Data Visualization </br>
 
 <p align="left">
   <img src="clusters.JPG" width="600"/>
-</p></br>
+</p>
+
 ### Feature Scaling
 <p align="left">
   <img src="before_feature_scaling.JPG" width="425"/>
